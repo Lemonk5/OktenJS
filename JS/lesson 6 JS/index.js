@@ -75,7 +75,7 @@ for (let suit of suits) {
             color: suit.color
         }
         deck.push(card);
-    }
+    }m
 }
 console.log(deck)
 
