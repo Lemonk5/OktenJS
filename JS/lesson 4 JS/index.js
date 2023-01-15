@@ -12,7 +12,7 @@
 ];
 
 for (let user of users) {
-    document.write(`
+    document.write(`n
     <div>
         <h1>${user.name}</h1>
         <h3>${user}</h3>
